@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Azosk and this is my Github!!!
-- 👀 I’m interested in working out, reading and programming!!
-- 🌱 I’m currently learning spanish, arabic and computer skills.
-- 💞️ I’m looking to collaborate on any and all projects for the greater good or to improve myself.
+- 👀 I’m interested in programming, collaborating on projects and software design!!
+- 🌱 I’m currently learning Linux, C# and Git.
+- 💞️ I’m looking to hone my skills in languages like C++ and create my own my own web hosting service.
 - 📫 How to reach me - azoskalias@gmail.com
-
-<!---
-Azosk/Azosk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
